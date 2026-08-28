@@ -11,6 +11,8 @@
 <p align="left">
 <a href="https://twitter.com/sheenhao8023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheenhao8023" height="30" width="40" /></a>
 <a href="https://instagram.com/haox8023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haox8023" height="30" width="40" /></a>
+<a href="https://huggingface.co/SheenHao8023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheenhao8023" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/sheenhao8023.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheenhao8023" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
